@@ -1,4 +1,5 @@
 import streamlit as st
+st.image("https://w0.peakpx.com/wallpaper/166/790/HD-wallpaper-virat-kohli.jpg", caption="AI-Powered Streamlit App")
 import requests
 import json
 import base64
